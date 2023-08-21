@@ -1,4 +1,4 @@
-import Lenis from "@studio-freight/Lenis";
+import Lenis from "@studio-freight/lenis";
 
 export function smooth(){
     const lenis = new Lenis({
