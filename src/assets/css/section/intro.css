@@ -96,8 +96,6 @@
 .intro_lines .line:nth-child(7){
     height: 25px;
 }
-
-
 .intro_lines.bottom .line:nth-child(1){
     height: 25px; 
 }
