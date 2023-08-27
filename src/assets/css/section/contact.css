@@ -51,7 +51,7 @@
     height: 1px;
     margin-bottom: 0.5vw;
 }
-.contact_lines.top {
+.contact_lines.top .line {
     margin-top: 0.5vw;
     margin-bottom: 0;
     display: none;
@@ -112,7 +112,7 @@
         padding: 0 16px;
         word-break: break-all;
     }
-    .contact_lines.top {
+    .contact_lines.top .line {
         display: block;
     }
 }
