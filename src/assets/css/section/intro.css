@@ -122,7 +122,7 @@
     .intro_inner {
         justify-content: center;
     }   
-    .intro_lines.bottom {
+    .intro_lines.bottom .line {
         display: block;
     }
     .intro_text .text {
