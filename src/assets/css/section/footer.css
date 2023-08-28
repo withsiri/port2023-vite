@@ -85,12 +85,10 @@
         width: 100%;
     }
     .footer_info .left .desc {
+        width: 100%;
         margin-bottom: 40px;
     }
     .footer_info .right {
-        width: 100%;
-    }
-    .footer_info .desc {
         width: 100%;
     }
 }
